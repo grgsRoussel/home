@@ -1,7 +1,7 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: Auxauralités
+subtitle: Audio Installation - Research Project
+image: assets/img/Projects/Auxauralites/Auxau_totem.jpg
 alt: Keep Exploring
 
 caption:
