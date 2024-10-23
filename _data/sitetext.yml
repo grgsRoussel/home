@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Website Under Construction
+    text: WORK IN PROGRESS
+    button: About me in a Nutshell
+    buttonlink: "#Skills"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "In a Nutshell"
+    text: ""
+    section: Skills
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -30,6 +30,10 @@ en: &DEFAULT_EN
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+
 
   portfolio:
     title: "Portfolio"
@@ -73,6 +77,12 @@ en: &DEFAULT_EN
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
+
+    anything:
+    title: "Anything Else"
+    text: "Blabla"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    section: anything
 
   clients:
     section: clients
