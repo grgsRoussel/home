@@ -55,43 +55,41 @@ en: &DEFAULT_EN
       - title: "R&D Developper - Technical Design Manager <br> Anamnesia"
         year: "Since 2021"
         desc: " Immersive Experiences"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/logo-anamnesia.png
         alt:  
       - title: "R&D Developper - Technical Design Manager<br> IMKI"
         year: "2021-2024"
         desc: "Generative AI - Immersive Experiences"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/imki-logo.png
         alt:  
       - title: "Postdoct <br> GAUS Sherbrooke University"
         year: "2020-2021"
         desc: "blablabla"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/logo-GAUS-notext .png
         alt:  
       - title: "PhD <br> LAUM <br> Le Mans Univsersité"
         year: "2015-2019"
         desc: "Sound Zones for moving listeners"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/laum-logo.png
         alt:
       - title: "Research Engineer <br> Orange Labs"
         year: "2015-2018"
         desc: "Bla"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/Orange_Labs.png
         alt:
       - title: "Master degree <br> Physical Acoustics"
         year: "2013-2015"
         desc: "Lot of things"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/logo_Univ_LeMans.png
         alt: image alt text
       - title: "Bachelor Degree <br> Engineering Sciences"
         year: "2010-2013"
         desc: "Signal processing, Solid Mechanics, General Acoustics."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/logo_Univ_LeMans.png
         alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of The <br> Story!"
+    #end: "What's Next ?"
 
-  about:
+  publications:
     title : Publications
     section: publications
     horizontal-scrolling: "" #"yes/no"
