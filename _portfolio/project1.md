@@ -11,9 +11,7 @@ caption:
 ---
 Shrebrooke University -- Audace funding
 
-Applied research topics can be tighted together to specific domain and be challenging to extract them to another one.
-The main goal of this research project was to extract acoustic metamaterials research - man-made material with physics driven crafted characteristics - to their initial domain. It was proposed create acoustic metamaterials for the use in sound art installation, for it to be more accessible to people. 
-Would it be possible to create both an accessible way to experience science and create laboratory outside the walls of an university?
+Applied research topics are often deeply rooted in specific domains, making it challenging to transfer them to other fields. This research project aimed to bridge that gap by applying acoustic metamaterials—man-made materials with physics-driven properties—beyond their original domain. The goal was to create acoustic metamaterials suitable for sound art installations, making this cutting-edge technology more accessible to the public. The project explored a way to both experience science in an engaging manner and establish laboratories outside traditional university settings.
 
 {:.list-inline}
 - Date: January 2017
