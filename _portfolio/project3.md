@@ -1,8 +1,8 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: l'Odyssée Sonore
+subtitle: 6 DoF Collective Interactive Audio
 image: assets/img/Projects/OdysseeSonore/Odyssee-Sonore-CerclesLumineux.jpg
-alt: Shirts on a hanger
+alt: Antique theater by night
 
 caption:
   title: L'Odyssée Sonore
@@ -10,9 +10,11 @@ caption:
   thumbnail:  assets/img/Projects/OdysseeSonore/Odyssee-Sonore-CerclesLumineux.jpg
 ---
 
-IMKI Internal Project
+Museum Manufactory
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Explore the historic Orange Antique Theater through an immersive experience that blends AI-generated visuals with dynamic spatial audio. This project features a custom spatial audio system designed to engage 300 visitors in a fully immersive auditory journey throughout the theater. Each participant is equipped with a custom headset that tracks head movement and rotation, enabling them to interact with a real-time soundscape as they move through the space.
+
+
 
 {:.list-inline}
 - Date: 2022
