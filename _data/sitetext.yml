@@ -22,26 +22,26 @@ en: &DEFAULT_EN
     section: Skills
     list:
       - title: "Spatial Audio"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "Using spatial audio to immerse in a whole new world of sounds"
+        icon: fas fa-user-astronaut #fa-headphones #fa-microphone-alt #find more at https://fontawesome.com/icons
       - title: "Python / C++"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        desc: "Developping algorithms for realtime spatial audio, creating production tools and prototyping"
+        icon: fas fa-laptop-code
       - title: "Interactivity"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Design new ways to interact with content and discover infinite possibilities within all spaces"
+        icon: fas fa-meteor #fa-vr-cardboard #fa-compass
       - title: "Simulation"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Conceive physics based simulations to better understand process associated to a specific physical phenomenon"
+        icon: fas fa-cogs #fa-leaf # fa-parachute-box #fa-question
       - title: "Generative AI"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Using, training and creating Generative AI algorithms to expand creativity beyond horizons"
+        icon: fas fa-spray-can #fa-tint #fa-eye
       - title: "Unreal Engine / Blender"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Create 3D worlds for realtime, production ready virtual environnements"
+        icon: fas fa-cubes #fa-gopuram
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
@@ -54,7 +54,7 @@ en: &DEFAULT_EN
     events:
       - title: "R&D Developper - Technical Design Manager <br> Anamnesia"
         year: "Since 2021"
-        desc: " Immersive Experiences"
+        desc: "Immersive Experiences"
         image: assets/img/timeline/logo-anamnesia.png
         alt:  
       - title: "R&D Developper - Technical Design Manager<br> IMKI"
@@ -87,7 +87,12 @@ en: &DEFAULT_EN
         desc: "Signal processing, Solid Mechanics, General Acoustics."
         image: assets/img/timeline/logo_Univ_LeMans.png
         alt:
-    #end: "What's Next ?"
+      - title: ""
+        year: ""
+        desc: ""
+        image: assets/img/timeline/logo_Univ_LeMans.png
+        alt:
+#    end: "What's Next ?"
 
   publications:
     title : Publications

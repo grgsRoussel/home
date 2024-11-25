@@ -1,13 +1,13 @@
 ---
 title: Auxauralités
 subtitle: Audio Installation - Research Project
-image: assets/img/Projects/Auxauralites/Auxau_totem.jpg
+image: assets/img/Projects/Auxauralites/Auxau_totem_crop.jpg
 alt: Keep Exploring
 
 caption:
   title: Auxauralités
   subtitle: Audio Installation - Research Project
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/Projects/Auxauralites/Auxau_totem_crop.jpg
 ---
 Shrebrooke University -- Audace funding
 
