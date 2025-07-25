@@ -14,7 +14,6 @@ Paintings capture both the unique vision of an artist and their refined technica
 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: 2021
+- Category: Generative AI - Python 
 

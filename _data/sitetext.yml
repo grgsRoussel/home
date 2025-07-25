@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Using spatial audio to immerse in a whole new world of sounds"
         icon: fas fa-user-astronaut #fa-headphones #fa-microphone-alt #find more at https://fontawesome.com/icons
       - title: "Python / C++"
-        desc: "Developping algorithms for realtime spatial audio, creating production tools and prototyping"
+        desc: "Developping algorithms for realtime spatial audio, signal processing, production tools and prototyping"
         icon: fas fa-laptop-code
       - title: "Interactivity"
         desc: "Design new ways to interact with content and discover infinite possibilities within all spaces"
@@ -47,24 +47,29 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
     events:
+      - title: "Freelance"
+        year: "Since 2025"
+        desc: " "
+        image: assets/img/timeline/logo-anamnesia.png
+        alt:  
       - title: "R&D Developper - Technical Design Manager <br> Anamnesia"
-        year: "Since 2021"
-        desc: "Immersive Experiences"
+        year: "2024 - 2025"
+        desc: "Mixed Reality - <br> Large Scale <br> Interactive Experiences"
         image: assets/img/timeline/logo-anamnesia.png
         alt:  
       - title: "R&D Developper - Technical Design Manager<br> IMKI"
         year: "2021-2024"
-        desc: "Generative AI - Immersive Experiences"
+        desc: "Generative AI - <br> Large Scale Interactive Experiences"
         image: assets/img/timeline/imki-logo.png
         alt:  
-      - title: "Postdoct <br> GAUS Sherbrooke University"
+      - title: "Postdoctoral Fellow <br> GAUS Sherbrooke University"
         year: "2020-2021"
-        desc: "blablabla"
+        desc: "Art and Sciences <br> Collaboration Project <br> Sound Art and <br> Acoustic Metamaterial "
         image: assets/img/timeline/logo-GAUS-notext .png
         alt:  
       - title: "PhD <br> LAUM <br> Le Mans Univsersité"
@@ -74,12 +79,12 @@ en: &DEFAULT_EN
         alt:
       - title: "Research Engineer <br> Orange Labs"
         year: "2015-2018"
-        desc: "Bla"
+        desc: "Sound Zones for moving listeners"
         image: assets/img/timeline/Orange_Labs.png
         alt:
       - title: "Master degree <br> Physical Acoustics"
         year: "2013-2015"
-        desc: "Lot of things"
+        desc: "Physical Acoustics, Signal Processing, Research"
         image: assets/img/timeline/logo_Univ_LeMans.png
         alt: image alt text
       - title: "Bachelor Degree <br> Engineering Sciences"
@@ -94,23 +99,23 @@ en: &DEFAULT_EN
         alt:
 #    end: "What's Next ?"
 
-  publications:
-    title : Publications
-    section: publications
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "Conferences"
-        desc: "Une Belle Publi"
-        type: "Papier"
-      - title: "Radio"
-        desc: "Une Belle Publi 2 "
-        type: "conf"
-      - title: "Reportage"
-        desc: "Une Belle Publi 3"
-        type: "Livre"
-      - title: "Presse"
-        desc: "Une Belle Publi 4"
-        type: "youpi"
+  # publications:
+  #   title : Publications
+  #   section: publications
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "Conferences"
+  #       desc: "Une Belle Publi"
+  #       type: "Papier"
+  #     - title: "Radio"
+  #       desc: "Une Belle Publi 2 "
+  #       type: "conf"
+  #     - title: "Reportage"
+  #       desc: "Une Belle Publi 3"
+  #       type: "Livre"
+  #     - title: "Presse"
+  #       desc: "Une Belle Publi 4"
+  #       type: "youpi"
 
   footer:
     legal: "Privacy Policy"
