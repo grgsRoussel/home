@@ -1,50 +1,42 @@
-// Styling for the masthead
 header.masthead {
   text-align: center;
-  color: white;
+  color: rgb(31, 51, 91);
   background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
-  background-size: cover;
+  background-position: center top;
+  background-size: auto 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
   .intro-text {
-    padding-top: 150px;
+    padding-top: 50vh;
     padding-bottom: 100px;
+    display: flex;                    // ← Ajouter ici aussi
+    flex-direction: column;           // ← Pour que l'ordre marche à l'intérieur
+    
     .intro-lead-in {
       font-size: 22px;
       font-style: italic;
       line-height: 22px;
       margin-bottom: 25px;
       @include serif-font;
+      order: 2;                       // ← Texte en deuxième
     }
+    
     .intro-heading {
       font-size: 50px;
       font-weight: 700;
       line-height: 50px;
       margin-bottom: 25px;
       @include heading-font;
+      order: 1;                       // ← Titre en premier
     }
   }
-}
-@media (min-width: 768px) {
-  header.masthead {
-    .intro-text {
-      padding-top: 300px;
-      padding-bottom: 200px;
-      .intro-lead-in {
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
-        margin-bottom: 25px;
-        @include serif-font;
-      }
-      .intro-heading {
-        font-size: 75px;
-        font-weight: 700;
-        line-height: 75px;
-        margin-bottom: 50px;
-        @include heading-font;
-      }
-    }
+  
+  .btn {
+    order: 2;                         // ← Bouton en dernier (au niveau du masthead)
+    margin-top: auto;
   }
 }

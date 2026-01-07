@@ -11,12 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "In a Nutshell"
+    - title: "Services"
       section: Skills
-    - title: "Portfolio"
-      section: portfolio
-    - title: "Timeline"
-      section: timeline
+    #- title: "Portfolio"
+    #  section: portfolio
+    #- title: "Timeline"
+    #  section: timeline
     # - title: "Publications"
     #   section: publications
 en-US:

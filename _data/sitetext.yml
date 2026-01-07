@@ -11,92 +11,93 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Website Under Construction
-    text: WORK IN PROGRESS
-    button: About me in a Nutshell
+    title: 
+    text: La Grotte a Son
+    button: Et Le Son Devient Réalité
     buttonlink: "#Skills"
 
   services:
-    title: "In a Nutshell"
+    title: " "
     text: ""
     section: Skills
     list:
-      - title: "Spatial Audio"
-        desc: "Using spatial audio to immerse in a whole new world of sounds"
-        icon: fas fa-user-astronaut #fa-headphones #fa-microphone-alt #find more at https://fontawesome.com/icons
-      - title: "Python / C++"
-        desc: "Developping algorithms for realtime spatial audio, signal processing, production tools and prototyping"
-        icon: fas fa-laptop-code
-      - title: "Interactivity"
+      - title: "Interactivité"
         desc: "Design new ways to interact with content and discover infinite possibilities within all spaces"
         icon: fas fa-meteor #fa-vr-cardboard #fa-compass
+      - title: "Audio Spatial"
+        desc: "Using spatial audio to immerse in a whole new world of sounds"
+        icon: fas fa-user-astronaut #fa-headphones #fa-microphone-alt #find more at https://fontawesome.com/icons
+      - title: "Unreal Engine / Unity"
+        desc: "Create 3D worlds for realtime, production ready virtual environnements"
+        icon: fas fa-cubes #fa-gopuram
+      - title: "Developpement"
+        desc: "Developping algorithms for realtime spatial audio, signal processing, production tools and prototyping"
+        icon: fas fa-laptop-code
       - title: "Simulation"
         desc: "Conceive physics based simulations to better understand process associated to a specific physical phenomenon"
         icon: fas fa-cogs #fa-leaf # fa-parachute-box #fa-question
       - title: "Generative AI"
         desc: "Using, training and creating Generative AI algorithms to expand creativity beyond horizons"
         icon: fas fa-spray-can #fa-tint #fa-eye
-      - title: "Unreal Engine / Blender"
-        desc: "Create 3D worlds for realtime, production ready virtual environnements"
-        icon: fas fa-cubes #fa-gopuram
-  portfolio:
-    title: "Portfolio"
-    text: ""
-    section: portfolio
-    closebutton: "Close Project"
 
-  timeline:
-    title: "Timeline"
-    text: " "
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Freelance"
-        year: "Since 2025"
-        desc: " "
-        image: assets/img/timeline/logo-anamnesia.png
-        alt:  
-      - title: "R&D Developper - Technical Design Manager <br> Anamnesia"
-        year: "2024 - 2025"
-        desc: "Mixed Reality - <br> Large Scale <br> Interactive Experiences"
-        image: assets/img/timeline/logo-anamnesia.png
-        alt:  
-      - title: "R&D Developper - Technical Design Manager<br> IMKI"
-        year: "2021-2024"
-        desc: "Generative AI - <br> Large Scale Interactive Experiences"
-        image: assets/img/timeline/imki-logo.png
-        alt:  
-      - title: "Postdoctoral Fellow <br> GAUS Sherbrooke University"
-        year: "2020-2021"
-        desc: "Art and Sciences <br> Collaboration Project <br> Sound Art and <br> Acoustic Metamaterial "
-        image: assets/img/timeline/logo-GAUS-notext .png
-        alt:  
-      - title: "PhD <br> LAUM <br> Le Mans Univsersité"
-        year: "2015-2019"
-        desc: "Sound Zones for moving listeners"
-        image: assets/img/timeline/laum-logo.png
-        alt:
-      - title: "Research Engineer <br> Orange Labs"
-        year: "2015-2018"
-        desc: "Sound Zones for moving listeners"
-        image: assets/img/timeline/Orange_Labs.png
-        alt:
-      - title: "Master degree <br> Physical Acoustics"
-        year: "2013-2015"
-        desc: "Physical Acoustics, Signal Processing, Research"
-        image: assets/img/timeline/logo_Univ_LeMans.png
-        alt: image alt text
-      - title: "Bachelor Degree <br> Engineering Sciences"
-        year: "2010-2013"
-        desc: "Signal processing, Solid Mechanics, General Acoustics."
-        image: assets/img/timeline/logo_Univ_LeMans.png
-        alt:
-      - title: ""
-        year: ""
-        desc: ""
-        image: assets/img/timeline/logo_Univ_LeMans.png
-        alt:
+  # portfolio:
+  #   title: "Portfolio"
+  #   text: ""
+  #   section: portfolio
+  #   closebutton: "Close Project"
+
+  # timeline:
+  #   title: "Timeline"
+  #   text: " "
+  #   section: timeline
+  #   # left is the default
+  #   #start_align: "left"
+  #   events:
+  #     - title: "Freelance"
+  #       year: "Since 2025"
+  #       desc: " "
+  #       image: assets/img/timeline/logo-anamnesia.png
+  #       alt:  
+  #     - title: "R&D Developper - Technical Design Manager <br> Anamnesia"
+  #       year: "2024 - 2025"
+  #       desc: "Mixed Reality - <br> Large Scale <br> Interactive Experiences"
+  #       image: assets/img/timeline/logo-anamnesia.png
+  #       alt:  
+  #     - title: "R&D Developper - Technical Design Manager<br> IMKI"
+  #       year: "2021-2024"
+  #       desc: "Generative AI - <br> Large Scale Interactive Experiences"
+  #       image: assets/img/timeline/imki-logo.png
+  #       alt:  
+  #     - title: "Postdoctoral Fellow <br> GAUS Sherbrooke University"
+  #       year: "2020-2021"
+  #       desc: "Art and Sciences <br> Collaboration Project <br> Sound Art and <br> Acoustic Metamaterial "
+  #       image: assets/img/timeline/logo-GAUS-notext .png
+  #       alt:  
+  #     - title: "PhD <br> LAUM <br> Le Mans Univsersité"
+  #       year: "2015-2019"
+  #       desc: "Sound Zones for moving listeners"
+  #       image: assets/img/timeline/laum-logo.png
+  #       alt:
+  #     - title: "Research Engineer <br> Orange Labs"
+  #       year: "2015-2018"
+  #       desc: "Sound Zones for moving listeners"
+  #       image: assets/img/timeline/Orange_Labs.png
+  #       alt:
+  #     - title: "Master degree <br> Physical Acoustics"
+  #       year: "2013-2015"
+  #       desc: "Physical Acoustics, Signal Processing, Research"
+  #       image: assets/img/timeline/logo_Univ_LeMans.png
+  #       alt: image alt text
+  #     - title: "Bachelor Degree <br> Engineering Sciences"
+  #       year: "2010-2013"
+  #       desc: "Signal processing, Solid Mechanics, General Acoustics."
+  #       image: assets/img/timeline/logo_Univ_LeMans.png
+  #       alt:
+  #     - title: ""
+  #       year: ""
+  #       desc: ""
+  #       image: assets/img/timeline/logo_Univ_LeMans.png
+  #       alt:
 #    end: "What's Next ?"
 
   # publications:
